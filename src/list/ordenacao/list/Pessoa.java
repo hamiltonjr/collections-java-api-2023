@@ -1,4 +1,4 @@
-package list.ordenacao;
+package list.ordenacao.list;
 import java.util.Comparator;
 
 public class Pessoa implements Comparable<Pessoa> {
